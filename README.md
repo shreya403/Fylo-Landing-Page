@@ -16,7 +16,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/shreya403/Fylo-Landing-Page
+  git clone [https://github.com/shreya403/Fylo-Landing-Page](https://github.com/shreya403/Fylo-Landing-Page.git)
 ```
 
 Go to the project directory
